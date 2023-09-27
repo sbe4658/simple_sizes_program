@@ -23,4 +23,4 @@ The size of float is:   4
 * `long`   long data type
 * `pointer` pointer data type
 ___
-if you found any issues or have a question, kindly reach out to me via <a href="mailto:salekbenelhabchi@gmail.com">email</a> or [twitter](https://twitter.com/MrBread46 "MrBread46"
+if you found any issues or have a question, kindly reach out to me via <a href="mailto:salekbenelhabchi@gmail.com">email</a> or [twitter](https://twitter.com/MrBread46 "MrBread46")
